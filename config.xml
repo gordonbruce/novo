@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.entregapp.novo"
+    id          = "2019454"
     version     = "1.0.4" >
 	<name>Furiosos Lanches</name>
         <description>
@@ -12,7 +12,7 @@
         </author>
          <feature name="debug-server" required="false">
             <param name="domain" value="http://localhost/apps/master/"/>
-            <param name="key" value="com.entregapp.novo"/>
+            <param name="key" value="2019454"/>
           </feature>
          <preference name="phonegap-version" value="3.7.0" />
          <plugin name="io.litehelpers.cordova.sqlite" spec="0.7.10" source="pgb" />
